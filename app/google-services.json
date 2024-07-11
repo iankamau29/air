@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254001462277",
+    "project_id": "mathew-project-4f363",
+    "storage_bucket": "mathew-project-4f363.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254001462277:android:a874e12c3495c30e98706c",
+        "android_client_info": {
+          "package_name": "mathew.coding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmS4ZmfisA2lT5zMiXKNQYo2rw4IJ-Wc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
